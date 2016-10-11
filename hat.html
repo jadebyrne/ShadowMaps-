@@ -1,0 +1,43 @@
+<DOCTYPE! html>
+
+<head>
+<title>Chat Box </title>
+</head>
+<body>
+	
+</body>>
+	<form name="chat" data-ajax="false">
+		<script>
+		
+		function submitChat (){
+			if(form1.uname.value==''|| form1.mag.value==''){
+				alert('All Fields ARE MANDATORY!!! ');
+				return;
+				
+			}
+			var uname =form.uname.value;
+			var mag = form1.msg.value;
+			var xmlhttp= new XMLHttpRequest();
+			
+			xmlhtpp.onreadystatechange = function(){
+				if (xmlhttp.readyState==4 &&xmlhttp.status==200){
+					document.getElementById('chatlogs').innerHTML = xmlhttp.responseText;
+				}
+			}
+			xmlhttp.open('GET','insert.php?uname='+uname+msg,true);
+			xmlhttp.send();
+		}
+		
+		</script>
+		
+		entre your chat name: <input type="text" name="uname"/><br/>
+		your message <br/>
+		<textarea name="msg"></textarea><br/>
+		<a href="#" onclick="submitChat ()">Send </a><br/><br/>
+		
+		<div id="chatlogs">
+			LOADING CHATLOGS please wait ..
+			
+			</div>
+			</body>
+	</html>		

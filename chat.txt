@@ -1,0 +1,418 @@
+<span>Guest</span>Hello 
+<span>Guest</span>What's up 
+<span>Guest</span>akldj  
+<span>Guest</span>    
+<span>Guest</span>   
+<span>Guest</span>        
+<span>Kenrick</span>dwwd 
+<span>Guest</span>test 
+<span>Kenrick</span><a href="http://google.com" target="_blank">http://google.com</a> 
+<span>Guest</span><a href="http://css-tricks.com/examples/Chat/" target="_blank">http://css-tricks.com/examples/Chat/</a> 
+<span>Guest</span>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus 
+<span>Guest</span>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus&lt; 
+<span>Kenrick</span>ellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus&lt; 
+<span>Kenrick</span>ellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+<span>Kenrick</span><a href="http://kenrickbeckett.com" target="_blank">http://kenrickbeckett.com</a> 
+<span>Cant</span>mimimimi 
+<span>Cant</span>test! 
+<span>Chris Coyier</span>You are the best ever. 
+<span>William Elliot Whitmore</span>I know. 
+<span>Kenrick</span>its anyone out there? 
+<span>Kenrick</span>lol 
+<span>Coby</span>This is cool indeedy 
+<span>Coby</span>Liking it very much 
+<span>Coby</span>Way to go, Chris!! 
+<span>Kenrick</span>hello? 
+<span>Kenrick</span>u here coby 
+<span>Chris</span>lol? 
+<span>Kenrick</span>lol  
+<span>Kenrick</span>chris? 
+<span>Kenrick</span>u here 
+<span>RandomDude123</span>This is a fake conversation. 
+<span>RandomChick456</span>You always say that. 
+<span>RandomDude123</span>You aren't even real. 
+<span>RandomChick456</span>Neither are you. 
+<span>Kenrick</span>          
+<span>Tata</span><a href="http://css-tricks.com/examples/Chat/chat.txt" target="_blank">http://css-tricks.com/examples/Chat/chat.txt</a> 
+<span>Guest</span>hey 
+<span>Guest</span>testing removing a weird function 
+<span>Guest2</span>afdadfa 
+<span>Guest2</span>fdadf 
+<span>Kenrick</span>wat 
+<span>Kenrick</span>lol 
+<span>Kenrick</span>ok  
+<span>Kenrick</span>test all u want 
+<span>Guest</span>adfadf 
+<span>Guest</span>Hey Kenrick 
+<span>Kenrick</span>hello guest? 
+<span>Chris</span>er me =) 
+<span>Chris</span>There was two basically unused functions in the JS 
+<span>Kenrick</span>lol 
+<span>Kenrick</span>which r  
+<span>Chris</span>this.file = fileChat; 
+<span>Chris</span>this.trim = trimstr; 
+<span>Kenrick</span>and  
+<span>Kenrick</span>ye i knwo  
+<span>Kenrick</span>its for later  
+<span>Kenrick</span>because u can set a diffrent file to write to  
+<span>Chris</span>I'm writing parts of the tutorial so I just wanted to do a little cleaning up 
+<span>Kenrick</span>so u can have chat rooms 
+<span>Chris</span>I see 
+<span>Kenrick</span>diffrent file difffernt chat rooms 
+<span>Kenrick</span>u can take out the rims 
+<span>Kenrick</span>trim 
+<span>Kenrick</span>it was suppose limint text  
+<span>Kenrick</span>when the paste it in  
+<span>Kenrick</span>was working on a design for my site  
+<span>Chris</span>That's cool 
+<span>Kenrick</span>:( dont cool 
+<span>Kenrick</span>not cool* 
+<span>Kenrick</span>giving me a headacke 
+<span>Kenrick</span>i love desugning 
+<span>Kenrick</span>but im more of a developer 
+<span>Chris</span>I was thinking maybe monday to put this out 
+<span>Chris</span>unless you want to wait 
+<span>Kenrick</span>sooner the better 
+<span>Kenrick</span>people really want it  
+<span>Kenrick</span>have u see the chat log 
+<span>Kenrick</span>&quot;OMG chris this awesome cant wait to get it &quot;
+<span>Kenrick</span>lol 
+<span>Kenrick</span><a href="http://google.com" target="_blank">http://google.com</a> google.com 
+<span>Kenrick</span>i was worried that url flitering would not work  
+<span>Kenrick</span>i think styling and the anchor tags is appropriate 
+<span>Chris</span>nice 
+<span>Chris</span>definitely some more design stuff to toss in 
+<span>Chris</span>gotta run 
+<span>Kenrick</span>kk  
+<span>do</span>ANyboDy elS e hEre
+<span>Guest</span>test 
+<span>Guest</span>bonjour 
+<span>Maurice Papon</span>Meuh ! 
+<span>Maurice Papon</span>R&Atilde;&copy;ponds connard 
+<span>Maurice Papon</span>&Atilde;&copy;&Atilde;&copy;&Atilde;&copy;&Atilde;&copy;&Atilde;&copy; 
+<span>Maurice Papon</span>&Atilde;&copy;&amp;&Atilde;&nbsp;@&Atilde;&uml;&Atilde;&raquo;&Atilde;&reg;&Atilde;&para; 
+<span>Guest</span>test 
+<span>Guest</span>cool 
+<span>Guest</span>yo 
+<span>Guest</span>$('input').hide(); 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>t 
+<span>Guest</span>nlknklj 
+<span>Kenrick</span>$('input').hide();  
+<span>Kenrick</span>lol 
+<span>Guest</span> dad dv aqv advavadva 
+<span>Guest</span>this is cool 
+<span>Guest</span>but i have chat on my website now 
+<span>Guest</span>fuck 
+<span>Guest</span>uh oh no filter for bad language 
+<span>Kenrick</span><a href="http://css-tricks.com/examples/Chat/" target="_blank">http://css-tricks.com/examples/Chat/</a> 
+<span>Kenrick</span>'
+<span>Porn</span>boobies 
+<span>Guest</span>lol 
+<span>kenrick</span>hi 
+<span>Kenrick</span>hello world 
+<span>Kenrick</span>testing 
+<span>Kenrick</span>lol  i
+<span>Kenrick</span> i
+<span>Kenrick</span>i 
+<span>Kenrick</span>i 
+<span>Kenrick</span>i 
+<span>Kenrick</span>i 
+<span>Kenrick</span>i 
+<span>Kenrick</span>i 
+<span>Kenrick</span>i i
+<span>Kenrick</span> i
+<span>Kenrick</span> i
+<span>Kenrick</span>ok 
+<span>Kenrick</span>i knoe  
+<span>Kenrick</span>u care 
+<span>Guest</span>2 
+<span>Guest</span>Test 
+<span>Guest</span>Interesting. 
+<span>Guest</span>Anyone there? 
+<span>Guest</span>Hi 
+<span>Guest</span>Hello 
+<span>Guest</span>test 
+<span>Guest</span>Hello? 
+<span>Guest</span>Wow. 
+<span>Guest</span>interesting. 
+<span>Guest</span>Does this work? 
+<span>Guest</span>What? 
+<span>Guest</span>Who? 
+<span>Guest</span>When? 
+<span>Guest</span>Where? 
+<span>Guest</span>hullo 
+<span>Guest</span>Hey 
+<span>Guest</span>Anyone? 
+<span>Guest</span>tfgjhg 
+<span>Guest</span>bvjhg 
+<span>Guest</span>ljhlkjhkljh 
+<span>Kcotter</span>heloooo? 
+<span>Iain</span>Hello 
+<span>Iain</span>Ooooh, this is nice. 
+<span>Guest</span>boo 
+<span>Frank</span>test 
+<span>Guest</span>test 
+<span>Doc KasH</span>Pussy who dis 
+<span>Kenrick</span>wah gwan 
+<span>Doc KasH</span>looser your thing is slow 
+<span>Kenrick</span>because of the server 
+<span>Doc KasH</span>lame 
+<span>Kenrick</span>but i made 150 off this 
+<span>Doc KasH</span>Im gonna hack this bitch and crash it 
+<span>Kenrick</span>go ahead 
+<span>Kenrick</span>u fool lke 
+<span>Kenrick</span>how much u wantr for the BB 
+<span>Doc KasH</span>ok watch me  
+<span>Kenrick</span>? 
+<span>Kenrick</span>BB!!!!!!!!!!!!! 
+<span>Doc KasH</span>u dont got one 
+<span>Kenrick</span>how much!! 
+<span>Kenrick</span>?     
+<span>Kenrick</span>       
+<span>Kcotter</span>whats up 
+<span>Kcotter</span>google   
+<span>Guest</span>testing 
+<span>Guest</span>beings, the improvement of living standards has been a high priority. These new living standards are brought on by the development technology. From horses to cars, swords to guns and even feathers to pens, all types have improvement have been happening over the years.    
+<span>Guest</span><a href="http://net.tutsplus.com/tutorials/html-css-techniques/object-oriented-css-what-how-and-why/" target="_blank">http://net.tutsplus.com/tutorials/html-css-techniques/object-oriented-css-what-how-and-why/</a> 
+<span>Guest</span>hello 
+<span>Guest</span>hello 
+<span>PKC</span>hello world 
+<span>PKC</span>hello jQuery 
+<span>Guest</span>hello 
+<span>jade</span>hi 
+<span>jade</span>i want a smoothie 
+<span>jade</span>blahhh blahhh 
+<span>jade</span>blahhh 
+<span>jade</span>hajjj 
+<span>jade</span>jdskahfjkrhg; 
+<span>jade</span>kdfjkrldjgl 
+<span>jade</span>ooooooooo 
+<span>jade</span>kgghkyko;jko 
+<span>kk</span>werfg 
+<span>kk</span>wgv 
+<span>kk</span>wrfv 
+<span>kk</span>wfrb 
+<span>kk</span>wrb 
+<span>kk</span>wrgb 
+<span>kk</span>wrgb 
+<span>kk</span>wrgb 
+<span>kk</span>wgr b
+<span>kk</span>wr gb
+<span>kk</span>wrgb w
+<span>kk</span>rgb 
+<span>kk</span>wrgb 
+<span>kk</span>grb 
+<span>Guest</span>qefhiuqerfh 
+<span>gggg</span>tggt 
+<span>jade</span>hi 
+<span>jade</span>yo 
+<span>jade</span>sup 
+<span>Guest</span>qekhfiuhb 
+<span>Guest</span>loser 
+<span>jade</span>hahahahaha im great 
+<span>Guest</span> jades gay 
+<span>jade</span>hi 
+<span>jade</span>hi 
+<span>jade</span>hi 
+<span>Guest</span>gry 
+<span>Guest</span>op]o 
+<span>Guest</span>okk 
+<span>Guest</span>jhouiho; 
+<span>Guest</span>-p]- 
+<span> Guest </span>ijpi 
+<span> Guest </span> jade 
+<span> Guest </span>sss  
+<span> Guest </span>jade 
+<span> Guest </span> jij 
+<span> Guest </span>j  
+<span> Guest </span> your gay 
+<span>killo</span>hi 
+<span>killo</span> your gay 
+<span>killo</span> no your gay  
+<span> Guest </span>  
+<span>killo</span> well done jade... jeez 
+<span> Guest </span>dccd 
+<span> Guest </span> dvc 
+<span> Guest </span>jade 
+<span> Guest </span>j 
+<span>Guest</span>yayyyyy 
+<span>Guest</span>yaaa 
+<span>Guest</span>fsegr 
+<span>Guest</span>shut up jade 
+<span>Guest</span>ashdfaehfiwrtg 
+<span>Guest</span>fhdsgkf 
+<span>Guest</span>dfsgj 
+<span>Guest</span>jdghs 
+<span>Guest</span>asdjkljas 
+<span>Guest</span>fiasduf9 
+<span>Guest</span>ffngjldfh 
+<span>Guest</span>m,.nvb 
+<span>Guest</span>jjj 
+<span>Guest</span>hghgjjj 
+<span>Guest</span>hgyuyg 
+<span>Guest</span>hgg 
+<span>Guest</span>ugyg 
+<span>Guest</span>hgi 
+<span>null</span>shut up jade 
+<span>jade</span>fgfyh 
+<span>null</span>shut upppp 
+<span>jade</span>fghjik 
+<span>jade</span>j 
+<span>null</span> jdes gay 
+<span>jade</span>its jade ok 
+<span>Killian</span>hi 
+<span>jade</span>kook 
+<span>  Guest  </span>hl 
+<span>  Guest  </span>jade 
+<span>Killian</span>what s up
+<span>Killian</span>  whats up 
+<span>  Guest  </span>uhh 
+<span>jade</span>hi 
+<span>jade</span>  rfse 
+<span>jade</span>fdg 
+<span>jade</span>  gfdg 
+<span>jade</span>  fgd 
+<span>  Guest  </span>gyifify 
+<span>  Guest  </span>yo 
+<span>  Guest  </span>hi 
+<span>jade</span>sup tim 
+<span>Kieran</span>Hey 
+<span>Kieran</span> HEY 
+<span>jade</span>what kieran 
+<span>jade</span>  yo 
+<span>Kieran</span>  :P 
+<span>jade</span>  we too cool 
+<span>  Guest  </span>jade 
+<span>  Guest  </span>jade 
+<span>  Guest  </span>  hi 
+<span>jade</span>gfhfgh 
+<span>jade</span>  hgfhg 
+<span>jade</span>fsdgsdg 
+<span>jade</span>  fdgsdh 
+<span>jade</span>  rfe 
+<span>r</span>jhjhg 
+<span>  Guest  </span>etgdr 
+<span>  Guest  </span>  djjdsf 
+<span>  Guest  </span>Shut up 
+<span>  Guest  </span>Hey Marken 
+<span>  Guest  </span>  yo 
+<span>KIERAN</span> hey 
+<span>KIERAN</span>  ho 
+<span>KIERAN</span>  lets 
+<span>KIERAN</span>  go 
+<span>jade</span>sdfsf 
+<span>jade</span>sfmk 
+<span>jade</span>gfhxdfh 
+<span>jade</span>hi 
+<span>jade</span>hi 
+<span>jade</span>dgsf 
+<span>jadde</span>ljfd 
+<span>jade</span>jo;j 
+<span>jade</span>uipu 
+<span>jade</span>sfaskfj 
+<span>jade </span>hi 
+<span>Kieran</span>hey 
+<span>Kieran</span>  iwergnfd 
+<span>Kieran</span>  ihkjdnpw;jlerknggf 
+<span>jade </span>  kjkpj 
+<span>Kieran</span>  wehkrbfw;rbw 
+<span>Kieran</span>  ;whfrbpw;efrhwr 
+<span>Kieran</span>  refbpwe;rfnw]e f
+<span>Kieran</span>  wefb'riedfbrejdif 
+<span>Kieran</span>  refbrejbasdfhrejadsf er
+<span>jade</span>fs# 
+<span>Kieran</span>  dsx 
+<span>Kieran</span>  tkjhbgne;rtnsd #
+<span>Kieran</span>  e rt
+<span>Kieran</span>  gb rts
+<span>Kieran</span>  g ert
+<span>Kieran</span>  g t
+<span>Kieran</span>  rd g
+<span>Kieran</span>   rt
+<span>Kieran</span>  g t
+<span>Kieran</span>  g 
+<span>Kieran</span>   g
+<span>Kieran</span>  t g
+<span>Kieran</span>  t g
+<span>Kieran</span>   tg
+<span>Kieran</span>  t g
+<span>Kieran</span>  t 
+<span>Kieran</span>  g t
+<span>Kieran</span>  gt 
+<span>Kieran</span>  g 
+<span>Kieran</span>  g 
+<span>Kieran</span>  t 
+<span>Kieran</span>  g t
+<span>Kieran</span>  g t
+<span>Kieran</span>  g 
+<span>Kieran</span>  t g
+<span>Kieran</span>   t
+<span>Kieran</span>  g t
+<span>Kieran</span>  g 
+<span>Kieran</span>  t 
+<span>Kieran</span>  g t
+<span>Kieran</span>  g 
+<span>jade</span>dsgsdfgs 
+<span>jade</span>dgsdgs 
+<span>jade</span>hkg 
+<span>jade</span>jade 
+<span>jade</span>hi# 
+<span>jade</span>jkjj 
+<span>jade</span>hi me 
+<span>jade</span>  hi you 
+<span>jade</span>hiiiii 
+<span>jade</span>  bhd 
+<span>aaa</span>gfgf 
+<span>  Guest  </span>fghfgh 
+<span>  Guest  </span>  hjop \
+<span>  Guest  </span>  ip[ 
+<span>  Guest  </span>  i0- 
+<span>  Guest  </span>  i0- 
+<span>jade</span>bf 
+<span>  Guest  </span>mnk 
+<span>  Guest  </span>kjlij 
+<span>  Guest  </span>hoh 
+<span>  Guest  </span>hi 
+<span>hi</span>   
+<span>hi</span>  how are you 
+<span>  Guest  </span>hello 
+<span>jade</span>hi marken 
+<span>jade</span>  yo 
+<span>killian</span>hi 
+<span>killian</span>  hi 
+<span>jade </span>yo 
+<span>Jade </span>dewfr 
+<span>Jade </span>  rwfw 
+<span>Jade </span>ghjg 
+<span>  Guest  </span>hrguhrug 
+<span>  Guest  </span>kjrfkjerkg 
+<span>  Guest  </span>  njner 
+<span>Killian </span>Hello  
+<span>Killian </span>  How are you  
+<span>Killian</span>hi 
+<span>Killian</span>  hi 
+<span>jade      </span>jkhgjg 
+<span>Jade </span>hello 
+<span>Jade </span>   
+<span>Kieran</span>hello 
+<span>  Guest  </span>dfgarsgf 
+<span>  Guest  </span>  frtgwyh 
+<span>  Guest  </span>4r5t 
+<span>  Guest  </span>  huh 

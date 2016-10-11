@@ -1,0 +1,17 @@
+	<form>     <!--  method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" -->
+					
+					<label for="essay">Name:</label>
+						<textarea name="essay" id="essay" placeholder="Whats your name?"></textarea>
+						<!--	<span class="error">* <?php echo $nameErr; ?> </span> -->
+				<br/>
+				
+					<label for="essay">Email:</label>
+						<textarea name="email" id="email" placeholder="Whats your email?"></textarea>
+				<br/>
+				
+					<label for="essay">Bio:</label>
+						<textarea name="bio" id="bio" placeholder="Tell us something about yourself?"></textarea>
+				<br/>
+
+						<input type="submit" name="go" id="go" value="Save!"/>
+			</form>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+        <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+		<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+		<!-- Map/Leafletjs css and script -->
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+		<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    </head>
+    <body>
+        <div data-role="page" id="page1" >
+            
+    				
+                    
+			
+			<div data-role="main" class="ui-content" id="map" style="height:100vh;">
+			    Hello World
+			    <h2  id="menu"  >  </h2>
+					
+					<ul id="menu">
+						<button type="button" id="btn" data-icon="home"></button>
+						<button type="button" id="btn" data-icon="location"></button>
+					
+						
+						<button type="button" id="btn" data-icon="shop"></button>
+						<button type="button" id="btn" data-icon="navigation"></button>
+					</ul>
+				
+				
+			
+				<script type="text/javascript"> 
+        				
+        				private GoogleMap mMap;
+
+						TileProvider tileProvider = new UrlTileProvider(256, 256) {
+  						@Override
+  						public URL getTileUrl(int x, int y, int zoom) {
+
+					    /* Define the URL pattern for the tile images */
+					    String s = String.format("http://www.myepsilon.org/wp-content/uploads/2013/10/gta-san-andreas-map-aerial.jpg",
+					        zoom, x, y);
+					
+					    if (!checkTileExists(x, y, zoom)) {
+					      return null;
+					    }
+					
+					    try {
+					      return new URL(s);
+					    } catch (MalformedURLException e) {
+					        throw new AssertionError(e);
+					    }
+					  }
+					
+					  /*
+					   * Check that the tile server supports the requested x, y and zoom.
+					   * Complete this stub according to the tile range you support.
+					   * If you support a limited range of tiles at different zoom levels, then you
+					   * need to define the supported x, y range at each zoom level.
+					   */
+					  private boolean checkTileExists(int x, int y, int zoom) {
+					    int minZoom = 12;
+					    int maxZoom = 16;
+					
+					    if ((zoom < minZoom || zoom > maxZoom)) {
+					      return false;
+					    }
+					
+					    return true;
+					  }
+					};
+
+					TileOverlay tileOverlay = mMap.addTileOverlay(new TileOverlayOptions()
+    					.tileProvider(tileProvider));
+                    </script>
+				
+			</div>
+			
+			
+			
+			
+		</div>
+    </body>
+</html>

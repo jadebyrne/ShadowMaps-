@@ -1,0 +1,49 @@
+#propic{
+     width:128px;
+     height:128px;
+     margin-left:45%;
+}
+#header1{
+     margin-left:45%;    
+}
+#header2{
+     margin-left:45%;    
+}
+#essay{
+     background-color:white;
+}
+#bio{
+     background-color:white;
+}
+#go{
+      background-color:white;
+}
+.error {
+     color:#FF0000;
+}
+
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: Blue;
+    border: solid 1px #c3c3c3;
+ 
+}
+
+#image {
+    
+    width:35%;
+    height:100%;
+    float:left;
+   margin-left:30%;
+}
+.img_name{
+    width: 5%;
+    
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+    color: black;
+}
